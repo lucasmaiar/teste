@@ -1,0 +1,18 @@
+.navbar-1 {
+  background-color: #1f618d !important;
+}
+
+.jumbotron-1 {
+  background-color: #1f618d !important;
+  border-radius: 0px !important;
+}
+
+.navbar-1,
+.jumbotron-1 {
+  color: white;
+}
+
+.button-1 {
+  background-color: #979a9a !important;
+  border: 0px;
+}
